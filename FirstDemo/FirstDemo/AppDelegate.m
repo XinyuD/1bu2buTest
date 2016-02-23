@@ -21,6 +21,8 @@
     //延长启动页时间
     [NSThread sleepForTimeInterval:5.0];
     
+    NSLog(@"put my first demo to git");
+    
     return YES;
 }
 
