@@ -150,9 +150,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D3298021C7C61F4004CB15B /* library */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = library;
+			sourceTree = "<group>";
+		};
 		5D5C5D9D1C76EC3A00524D2D = {
 			isa = PBXGroup;
 			children = (
+				5D3298021C7C61F4004CB15B /* library */,
 				5D5C5DDD1C76ED3300524D2D /* Resources */,
 				5D5C5DDE1C76ED3300524D2D /* OpenSources */,
 				5D5C5DDF1C76ED3300524D2D /* Classes */,
